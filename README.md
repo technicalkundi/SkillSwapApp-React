@@ -1,57 +1,89 @@
+# SkillSwap App 👋
 
+[![Expo](https://img.shields.io/badge/Expo-48C9B0?style=for-the-badge&logo=expo&logoColor=white)](https://expo.dev/)
+[![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactnative.dev/)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
+[![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](LICENSE)
+[![GitHub Stars](https://img.shields.io/github/stars/technicalkundi/Assignment-1-8297?style=for-the-badge)](https://github.com/technicalkundi/Assignment-1-8297/stargazers)
 
-# Welcome to SkillSwap App👋
+---
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+SkillSwap is a mobile app built with [React Native](https://reactnative.dev/) and [Expo](https://expo.dev/) that allows students to exchange skills with each other.  
+Example: A student good at **public speaking** can help someone in exchange for **poster design** or **coding help**.
 
-## Get started
+---
 
-1. Install dependencies
+## 🚀 Features
+- 📚 Skill sharing between students  
+- 🔄 Learn & teach through swapping  
+- 📱 Cross-platform (Android, iOS, Web via Expo)  
+- ⚡ Hot reloading for faster development  
 
+---
+
+## 🛠️ Tech Stack
+- [React Native](https://reactnative.dev/)  
+- [Expo](https://expo.dev/)  
+- [JavaScript / TypeScript support](https://www.typescriptlang.org/)  
+
+---
+
+## 📦 Installation & Setup
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/technicalkundi/SkillSwapApp-React.git
+   cd SkillSwap
+   
+2. Install dependencies:
    ```bash
    npm install
-   ```
-
-2. Start the app
-
+   
+3. Run the project:
    ```bash
    npx expo start
-   ```
+   
+4. Open the app in:
+   Expo Go (scan QR code)
 
-In the output, you'll find options to open the app in a
+   Android Emulator
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+   iOS Simulator
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+   Web browser
 
-## Get a fresh project
+## 📱 Try it out
+Scan the QR code below with the Expo Go app to run the project instantly:
 
-When you're ready, run:
+![Expo QR](https://qr.expo.dev/expo-go?appScheme=exp&url=exp%3A%2F%2Fexp.host%2F@your-username%2FSkillSwap)
 
-```bash
-npm run reset-project
-```
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+📂 Project Structure
+   SkillSwap/
+  ├── app/              # App screens & routes
+  ├── assets/           # Images, icons, fonts
+  ├── package.json      # Project metadata & dependencies
+  ├── App.js            # Root component
+  ├── README.md         # Project documentation
 
-## Learn more
+🤝 Contribution
+   1. Fork the repo
+   2. Create your feature branch
+   ```bash
+   git checkout -b feature/my-feature
+   3. Commit changes
+   ```bash
+   git commit -m 'Add new feature'
+   4. Push branch
+   ```bash
+   git push origin feature/my-feature
+   5. Open a Pull Request
 
-To learn more about developing your project with Expo, look at the following resources:
+📜 License
+   This project is licensed under the MIT License.
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+👩‍💻 Author
 
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
-#   A s s i g n m e n t - 1 - F u k r a n - K u n d i 
- 
- #   A s s i g n m e n t - 1 - 8 2 9 7 
- 
- 
+   Made with ❤️ by Furqan Ahmad
+   
