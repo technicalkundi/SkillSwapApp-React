@@ -56,10 +56,11 @@ Example: A student good at **public speaking** can help someone in exchange for 
 ## 📱 Try it out
 Scan the QR code below with the Expo Go app to run the project instantly:
 
-![Expo QR](https://qr.expo.dev/expo-go?appScheme=exp&url=exp%3A%2F%2Fexp.host%2F@your-username%2FSkillSwap)
+![Expo QR](https://qr.expo.dev/expo-go?appScheme=exp&url=exp%3A%2F%2Fexp.host%2F@technicalkundi%2FSkillSwapApp-React)
 
 
 📂 Project Structure
+   ```bash
    SkillSwap/
   ├── app/              # App screens & routes
   ├── assets/           # Images, icons, fonts
@@ -68,17 +69,21 @@ Scan the QR code below with the Expo Go app to run the project instantly:
   ├── README.md         # Project documentation
 
 🤝 Contribution
-   1. Fork the repo
-   2. Create your feature branch
+1. Fork the repo
+
+2. Create your feature branch
    ```bash
    git checkout -b feature/my-feature
-   3. Commit changes
+
+3. Commit changes
    ```bash
    git commit -m 'Add new feature'
-   4. Push branch
+
+4. Push branch
    ```bash
    git push origin feature/my-feature
-   5. Open a Pull Request
+
+5. Open a Pull Request
 
 📜 License
    This project is licensed under the MIT License.
