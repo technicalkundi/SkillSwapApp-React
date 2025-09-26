@@ -47,15 +47,15 @@ Example: A student good at **public speaking** can help someone in exchange for 
 4. Open the app in:
    Expo Go (scan QR code)
 
-   Android Emulator
+  - Android Emulator
 
-   iOS Simulator
+  - iOS Simulator
 
-   Web browser
+  - Web browser
 
 ---
 
-📂 Project Structure
+## 📂 Project Structure
    ```bash
    SkillSwap/
   ├── app/              # App screens & routes
@@ -66,7 +66,7 @@ Example: A student good at **public speaking** can help someone in exchange for 
 
 ---
 
-🤝 Contribution
+ 🤝 Contribution
 1. Fork the repo
 
 2. Create your feature branch
@@ -85,12 +85,11 @@ Example: A student good at **public speaking** can help someone in exchange for 
 
 ---
 
-📜 License
-   This project is licensed under the MIT License.
+## 📜 License
+   This project is licensed under the     MIT License.
 
 ---
 
-👩‍💻 Author
-
+## 👩‍💻 Author
    Made with ❤️ by Furqan Ahmad
    
