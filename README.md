@@ -55,18 +55,7 @@ Example: A student good at **public speaking** can help someone in exchange for 
 
 ---
 
-## 📂 Project Structure
-   ```bash
-   SkillSwap/
-  ├── app/              # App screens & routes
-  ├── assets/           # Images, icons, fonts
-  ├── package.json      # Project metadata & dependencies
-  ├── App.js            # Root component
-  ├── README.md         # Project documentation
-
----
-
- 🤝 Contribution
+ ## 🤝 Contribution
 1. Fork the repo
 
 2. Create your feature branch
@@ -93,3 +82,11 @@ Example: A student good at **public speaking** can help someone in exchange for 
 ## 👩‍💻 Author
    Made with ❤️ by Furqan Ahmad
    
+## 📂 Project Structure
+   ```bash
+   SkillSwap/
+  ├── app/              # App screens & routes
+  ├── assets/           # Images, icons, fonts
+  ├── package.json      # Project metadata & dependencies
+  ├── App.js            # Root component
+  ├── README.md         # Project documentation
